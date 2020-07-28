@@ -5,6 +5,11 @@
   font-weight: normal;
   font-style: normal; }
 
+html {
+  overflow-x: hidden;
+  width: 100%;
+}
+
 body {
   font-family: "Quicksand", Arial, sans-serif;
   font-weight: 400;
