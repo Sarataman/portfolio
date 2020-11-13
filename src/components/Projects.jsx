@@ -17,7 +17,7 @@ export default class Projects extends Component {
                             <div className="project" style={{backgroundImage: 'url(images/online-react-lib.JPG)'}}>
                                 <div className="desc">
                                     <div className="con">
-                                        <h3><a href="https://online-react-library.netlify.app/">Online React Library using Google API</a></h3>
+                                        <h3><a href="https://onine-lib.netlify.app/">Online React Library using Google API</a></h3>
                                     </div>
                                 </div>
                             </div>
